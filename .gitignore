@@ -1,0 +1,19 @@
+.venv/
+venv/
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyd
+*.dll
+*.so
+*.exe
+*.zip
+*.tar
+*.log
+
+# Ignore large binary or temporary files
+*.wav
+*.mp4
+*.h5
+*.ckpt
+*.pt
